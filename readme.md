@@ -1,3 +1,7 @@
+## Flow Chart Of Real Time Web App
+![Flow Chart](/public/assets/realtime-chat-app-app-flow.png)
+
+
 # Real Time Chat App (Socket-IO)
 
 Real Time Chat Web App using Socket-IO, powered with React,Material UI and Nodejs.
