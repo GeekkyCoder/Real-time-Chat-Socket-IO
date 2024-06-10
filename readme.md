@@ -1,5 +1,5 @@
 ## Flow Chart Of Real Time Web App
-![Flow Chart](/public/assets/realtime-chat-app-app-flow.png)
+![Flow Chart](/client/public/assets/realtime-chat-app-app-flow.png)
 
 
 # Real Time Chat App (Socket-IO)
