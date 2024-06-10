@@ -1,4 +1,4 @@
-## Flow Chart Of Real Time Web App
+## Flow Chart Of Real Time Chat Web App
 ![Flow Chart](/client/public/assets/realtime-chat-app-app-flow.png)
 
 
